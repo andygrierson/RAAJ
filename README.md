@@ -1,5 +1,5 @@
 # RAAJ
-Andy \n
-Ray \n
-Alice \n
+Andy
+Ray
+Alice
 Jenny
